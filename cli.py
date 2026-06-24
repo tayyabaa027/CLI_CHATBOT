@@ -21,7 +21,7 @@ from chatbot.providers import call_model
 from chatbot.pricing import compute_cost
 
 DEFAULT_MODELS = {
-    "gemini": "gemini-2.5-flash-lite",
+    "gemini": "gemini-2.0-flash-lite",
 }
 
 HELP_TEXT = f"""
